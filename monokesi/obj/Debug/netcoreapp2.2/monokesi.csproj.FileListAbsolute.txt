@@ -1,0 +1,11 @@
+/Users/center/Documents/monokesi/monokesi/bin/Debug/netcoreapp2.2/monokesi.deps.json
+/Users/center/Documents/monokesi/monokesi/bin/Debug/netcoreapp2.2/monokesi.runtimeconfig.json
+/Users/center/Documents/monokesi/monokesi/bin/Debug/netcoreapp2.2/monokesi.runtimeconfig.dev.json
+/Users/center/Documents/monokesi/monokesi/bin/Debug/netcoreapp2.2/monokesi.dll
+/Users/center/Documents/monokesi/monokesi/bin/Debug/netcoreapp2.2/monokesi.pdb
+/Users/center/Documents/monokesi/monokesi/obj/Debug/netcoreapp2.2/monokesi.csprojAssemblyReference.cache
+/Users/center/Documents/monokesi/monokesi/obj/Debug/netcoreapp2.2/monokesi.csproj.CoreCompileInputs.cache
+/Users/center/Documents/monokesi/monokesi/obj/Debug/netcoreapp2.2/monokesi.AssemblyInfoInputs.cache
+/Users/center/Documents/monokesi/monokesi/obj/Debug/netcoreapp2.2/monokesi.AssemblyInfo.cs
+/Users/center/Documents/monokesi/monokesi/obj/Debug/netcoreapp2.2/monokesi.dll
+/Users/center/Documents/monokesi/monokesi/obj/Debug/netcoreapp2.2/monokesi.pdb
